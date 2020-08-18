@@ -4,7 +4,7 @@ Comment=Flat and colorful personality icon theme
 Inherits=hicolor
 Example=folder
 
-# KDE/Plasma Stuff
+# KDE/Plasma Stuf
 DisplayDepth=32
 LinkOverlay=link_overlay
 LockOverlay=lock_overlay
